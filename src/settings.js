@@ -1,6 +1,6 @@
 let getSettings = () =>{
     return {
-        api:"https://file-s.herokuapp.com"    
+        api:"https://filez-system.herokuapp.com"    
     }
 }
 
